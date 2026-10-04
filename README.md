@@ -23,21 +23,5 @@ basic functionality
 
 
 
-
-
-
-
-
-
-my API should look like
-
-POST /post
-
-get /post
-
-get /p
-
-
-
-
+After my website is complete I will post screenshot of how it was looking
 
